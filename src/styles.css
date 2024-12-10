@@ -561,6 +561,10 @@ h3 {
 
 /* Media Queries for Responsive Design */
 @media (max-width: 768px) {
+  .logo-img {
+    height: 50px;
+    width: 70%;
+  }
   .home-banner h1 {
     font-size: 32px;
   }
