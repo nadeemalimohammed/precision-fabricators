@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/precision-fabricators/static/css/main.c2740c3d.css",
+    "main.js": "/precision-fabricators/static/js/main.8acf061b.js",
+    "static/js/488.6e2d6613.chunk.js": "/precision-fabricators/static/js/488.6e2d6613.chunk.js",
+    "static/media/logo.png": "/precision-fabricators/static/media/logo.c76cc31719de1275b6b8.png",
+    "static/media/homepage.jpg": "/precision-fabricators/static/media/homepage.928de029cdcc374f589b.jpg",
+    "static/media/welding-services.jpg": "/precision-fabricators/static/media/welding-services.f458a598c3066eaccc9f.jpg",
+    "static/media/custom-metal-fabrication.jpg": "/precision-fabricators/static/media/custom-metal-fabrication.3141049775fb67af488f.jpg",
+    "static/media/certificate-3.jpg": "/precision-fabricators/static/media/certificate-3.34cc62522a674a42f9c1.jpg",
+    "static/media/sheet-metal-work.jpg": "/precision-fabricators/static/media/sheet-metal-work.bcc62fb48b8502c34201.jpg",
+    "static/media/ornamental-metalwork.jpg": "/precision-fabricators/static/media/ornamental-metalwork.f32ec6d550ff7bab825c.jpg",
+    "static/media/industrial-fabrication.jpg": "/precision-fabricators/static/media/industrial-fabrication.8349fdf9ba79b1f675c1.jpg",
+    "static/media/equipment-repair-and-maintenance.jpg": "/precision-fabricators/static/media/equipment-repair-and-maintenance.868107893685fc1f5f0b.jpg",
+    "static/media/certificate-1.jpg": "/precision-fabricators/static/media/certificate-1.be477d415fc4ff37d113.jpg",
+    "static/media/laser-cutting-and-engraving.jpg": "/precision-fabricators/static/media/laser-cutting-and-engraving.d993e2c3b1606514a3be.jpg",
+    "static/media/certificate-2.jpg": "/precision-fabricators/static/media/certificate-2.c8675aa9c4f375123e6a.jpg",
+    "static/media/structural-fabrication.jpg": "/precision-fabricators/static/media/structural-fabrication.9fbfa46056538f7b8382.jpg",
+    "static/media/metal-finishing-and-coating.jpg": "/precision-fabricators/static/media/metal-finishing-and-coating.d6cf5d41d952b424b285.jpg",
+    "index.html": "/precision-fabricators/index.html",
+    "main.c2740c3d.css.map": "/precision-fabricators/static/css/main.c2740c3d.css.map",
+    "main.8acf061b.js.map": "/precision-fabricators/static/js/main.8acf061b.js.map",
+    "488.6e2d6613.chunk.js.map": "/precision-fabricators/static/js/488.6e2d6613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2740c3d.css",
+    "static/js/main.8acf061b.js"
+  ]
+}
