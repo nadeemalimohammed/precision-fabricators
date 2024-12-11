@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/precision-fabricators/static/css/main.c2740c3d.css",
+    "main.css": "/precision-fabricators/static/css/main.88e46a7f.css",
     "main.js": "/precision-fabricators/static/js/main.8acf061b.js",
     "static/js/488.6e2d6613.chunk.js": "/precision-fabricators/static/js/488.6e2d6613.chunk.js",
     "static/media/logo.png": "/precision-fabricators/static/media/logo.c76cc31719de1275b6b8.png",
@@ -18,12 +18,12 @@
     "static/media/structural-fabrication.jpg": "/precision-fabricators/static/media/structural-fabrication.9fbfa46056538f7b8382.jpg",
     "static/media/metal-finishing-and-coating.jpg": "/precision-fabricators/static/media/metal-finishing-and-coating.d6cf5d41d952b424b285.jpg",
     "index.html": "/precision-fabricators/index.html",
-    "main.c2740c3d.css.map": "/precision-fabricators/static/css/main.c2740c3d.css.map",
+    "main.88e46a7f.css.map": "/precision-fabricators/static/css/main.88e46a7f.css.map",
     "main.8acf061b.js.map": "/precision-fabricators/static/js/main.8acf061b.js.map",
     "488.6e2d6613.chunk.js.map": "/precision-fabricators/static/js/488.6e2d6613.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2740c3d.css",
+    "static/css/main.88e46a7f.css",
     "static/js/main.8acf061b.js"
   ]
 }
